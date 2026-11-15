@@ -48,3 +48,4 @@ celerybeat.pid
 # OS generated files
 .DS_Store
 Thumbs.db
+uploads/
